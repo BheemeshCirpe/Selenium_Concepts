@@ -1,4 +1,4 @@
-package com.java.webtables;
+package com.selenium.webtables;
 
 import java.util.List;
 
