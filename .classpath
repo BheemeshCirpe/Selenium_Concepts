@@ -26,5 +26,9 @@
 	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/Apache_POI/poi-4.0.0/poi-ooxml-4.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/Apache_POI/poi-4.0.0/poi-ooxml-schemas-4.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/Apache_POI/poi-4.0.0/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/TestNG/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/TestNG/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/TestNG/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/Sikuli/sikuli-script.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
