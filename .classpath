@@ -30,5 +30,6 @@
 	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/TestNG/jcommander-1.48.jar"/>
 	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/TestNG/testng-6.9.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/Sikuli/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roopa/eclipse-workspace/Selenium/All_Jars/Log4j/log4j.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

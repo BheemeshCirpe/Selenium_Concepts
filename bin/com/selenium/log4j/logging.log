@@ -1,0 +1,8 @@
+2019-12-01 18:04:39 INFO  Log4j:15 - Sample info message
+2019-12-01 18:04:39 WARN  Log4j:16 - Sample warn message
+2019-12-01 18:04:39 ERROR Log4j:17 - Sample error message
+2019-12-01 18:04:39 FATAL Log4j:18 - Sample fatal message
+2019-12-01 18:05:49 INFO  Log4j:15 - Sample info message roopa
+2019-12-01 18:05:49 WARN  Log4j:16 - Sample warn message
+2019-12-01 18:05:49 ERROR Log4j:17 - Sample error message
+2019-12-01 18:05:49 FATAL Log4j:18 - Sample fatal message
